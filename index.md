@@ -8,3 +8,9 @@
 #### Exercise Video Recommendation for Parkinson's Disease (PD) Patients
 #### A Nonintrusive Elderly Home Monitoring System
 #### Raw Food Recognition and Nutrition Analysis
+
+
+## Publications:
+#### {Le Fang, Bingqian Du, Chuan Wu, ``Differentially Private Recommender System with Variational Autoencoders,'' Elsevier Knowledge-Based Systems Journal (Accepted), 2022.  (IF: 8.038, SJR: Q1)}
+
+#### {Le Fang, Yu Wu, Chuan Wu, Yizhou Yu, ``A Nonintrusive Elderly Home Monitoring System,'' IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb., 2021. (IF: 9.471, SJR: Q1)}
