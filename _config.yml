@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 logo: /assets/leo.jpg
-title: [Le Fang]
+title: [Leo Fang]
 description: [Homepage]
+show_downloads: true
+google_analytics:
