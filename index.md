@@ -6,7 +6,7 @@
 
 ## My PROJECTS:
 #### - Emotional Gesture Sensing (Ongoing)
-#### - Gait-Balance Monitoring System (Ongoing) 
+#### - Elderly Gait-Balance Monitoring System (Ongoing) 
 #### - Exercise Video Recommendation for Parkinson's Disease (PD) Patients
 #### - A Nonintrusive Elderly Home Monitoring System
 #### - Raw Food Recognition and Nutrition Analysis
