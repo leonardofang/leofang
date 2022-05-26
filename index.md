@@ -10,7 +10,7 @@
 #### Raw Food Recognition and Nutrition Analysis
 
 
-## Publications:
+## :book: Publications:
 #### Le Fang, Bingqian Du, Chuan Wu, Differentially Private Recommender System with Variational Autoencoders, Elsevier Knowledge-Based Systems Journal (Accepted), 2022. 
 [DOI Access](https://doi.org/10.1016/j.knosys.2022.109044) (IF: 8.038, SJR: Q1)
 
