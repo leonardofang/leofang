@@ -4,7 +4,7 @@
 #### - AI, Data Science for Healthcare
 #### - IoT for Smart Home
 
-## :computer:	My PROJECTS:
+## My PROJECTS:
 #### - Emotional Gesture Sensing (Ongoing)
 #### - Gait-Balance Monitoring System (Ongoing) 
 #### - Exercise Video Recommendation for Parkinson's Disease (PD) Patients
