@@ -14,10 +14,10 @@
 
 ## Publications:
 #### :page_facing_up:	 Le Fang, Bingqian Du, Chuan Wu, Differentially Private Recommender System with Variational Autoencoders, Elsevier Knowledge-Based Systems Journal (Accepted), 2022. 
-[DOI Access](https://doi.org/10.1016/j.knosys.2022.109044) (IF: 8.038, SJR: Q1)
+[DOI Access](https://doi.org/10.1016/j.knosys.2022.109044) (SJR: Q1)
 
 #### :page_facing_up:	 Le Fang, Yu Wu, Chuan Wu, Yizhou Yu, A Nonintrusive Elderly Home Monitoring System, IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb., 2021. 
-[DOI Access](https://ieeexplore.ieee.org/document/9177049) (IF: 9.471, SJR: Q1)
+[DOI Access](https://ieeexplore.ieee.org/document/9177049) (SJR: Q1)
 
 
 ## Teaching Duties:
