@@ -5,7 +5,7 @@
 #### - IoT for Smart Home
 
 ## My PROJECTS:
-#### - Emotional Gesture Sensing (Ongoing)
+#### - \textcolor{red}{Emotional Gesture Sensing (Ongoing)}
 #### - Elderly Gait-Balance Monitoring System (Ongoing) 
 #### - Exercise Video Recommendation for Parkinson's Disease (PD) Patients
 #### - A Nonintrusive Elderly Home Monitoring System
