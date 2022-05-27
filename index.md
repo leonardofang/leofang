@@ -21,10 +21,10 @@
 
 
 ## Teaching Duties:
-#### I have served as a teaching assistant (TA) in courses below:
+### I have served as a teaching assistant (TA) in courses below:
 ### The University of Hong Kong
 #### Autumn 2019 - Spring 2019: COMP1117  Computer programming
 #### I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.
-\
+####
 #### Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks
 #### I mainly answered some networking questions from students. Furthermore, I joined the assignment/project grading work.
