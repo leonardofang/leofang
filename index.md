@@ -4,7 +4,7 @@
 #### - AI, Data Science for Healthcare
 #### - IoT for Smart Home
 
-## My PROJECTS:
+## My Projects:
 #### - Emotional Gesture Sensing (Ongoing)
 #### - Elderly Gait-Balance Monitoring System (Ongoing) 
 #### - Exercise Video Recommendation for Parkinson's Disease (PD) Patients
@@ -18,3 +18,13 @@
 
 #### - Le Fang, Yu Wu, Chuan Wu, Yizhou Yu, A Nonintrusive Elderly Home Monitoring System, IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb., 2021. 
 [DOI Access](https://ieeexplore.ieee.org/document/9177049) (IF: 9.471, SJR: Q1)
+
+
+## Teaching Duties:
+#### I have served as a teaching assistant (TA) in courses below:
+### The University of Hong Kong
+#### Autumn 2019 - Spring 2019: COMP1117  Computer programming
+#### I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.
+\
+#### Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks
+#### I mainly answered some networking questions from students. Furthermore, I joined the assignment/project grading work.
