@@ -5,8 +5,9 @@
 #### - IoT for Smart Home
 
 ## My Projects:
-#### - Emotional Gesture Sensing (Ongoing)
-#### - Elderly Gait-Balance Monitoring System (Ongoing) 
+#### - Emotional Gesture Sensing (Ongoing :fire:)
+##### - Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.
+#### - Elderly Gait-Balance Monitoring System (Ongoing :fire:) 
 #### - Exercise Video Recommendation for Parkinson's Disease (PD) Patients
 #### - A Nonintrusive Elderly Home Monitoring System
 #### - Raw Food Recognition and Nutrition Analysis
